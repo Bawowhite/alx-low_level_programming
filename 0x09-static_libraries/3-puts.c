@@ -11,5 +11,5 @@ while (*str != '\0')
 {
 _putchar(*str++);
 }
- _putchar('\n');
+_putchar('\n');
 }
