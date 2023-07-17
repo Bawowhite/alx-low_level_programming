@@ -39,7 +39,9 @@ i++;
 return (i);
 }
 
-//errors - handles errors for main
+/**
+*errors - handles errors for main
+*/
 
 void errors(void)
 {
